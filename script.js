@@ -981,7 +981,7 @@ function openLetter() {
         // Iniciar el efecto de escritura
         setTimeout(() => {
             const typewriterElement = document.getElementById('typewriter-paragraph');
-            const text = "Hermanita, espero que la pases súper bien allá en Arequipa junto a José. Sé que van a tener momentos increíbles en ese paseo, y aunque no estamos ahí yo y Meli para celebrar, pásala bien y disfruta tu día especial.";
+            const text = "Hermanita, espero que la pases súper bien allá en Ayacucho junto a José. Sé que van a tener momentos increíbles en ese paseo, y aunque no estamos ahí yo y Meli para celebrar, pásala bien y disfruta tu día especial.";
             typeWriter(typewriterElement, text, 60);
         }, 500);
         
